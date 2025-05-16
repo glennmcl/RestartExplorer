@@ -2,7 +2,7 @@
 
 A simple, lightweight utility for quickly restarting the Windows Explorer process with a single click.
 
-![Explorer Restart Utility](https://raw.githubusercontent.com/username/explorer-restart-utility/main/screenshot.png)
+![Explorer Restart Utility](https://raw.githubusercontent.com/glennmcl/RestartExplorer/refs/heads/main/RestartExplorer.ico)
 
 ## Overview
 
