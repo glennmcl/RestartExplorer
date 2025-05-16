@@ -74,7 +74,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Acknowledgments
 
-- Icon source: [Icon Attribution/Source]
+- Icon source: ChatGPT 4o
 - Inspired by the need for a quick Explorer reset without full system reboots
 
 ## Disclaimer
